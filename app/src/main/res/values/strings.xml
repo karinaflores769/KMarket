@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">K-Market</string>
+    <string name="autor">Karina Alejandra Flores Cruz</string>
+    <string name="version">Versión 1.0</string>
+    <string name="signo">$ %s</string>
+    <string name="noint">No hay conexión a internet.</string>
+    <string name="msgnoint">Compruebe su conexión a intenernet y vuelva a abrir la app.</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="gratis">Gratis</string>
+</resources>
